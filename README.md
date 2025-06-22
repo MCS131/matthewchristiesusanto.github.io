@@ -52,12 +52,12 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MCS131/matthewchristiesusanto.github.io.git
+   git clone https://github.com/MCS131/matthewcs-portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd matthewchristiesusanto.github.io
+   cd matthewcs-portfolio
    ```
 
 3. Open `index.html` in your web browser or use a local server:
